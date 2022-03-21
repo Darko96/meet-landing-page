@@ -193,10 +193,10 @@ body {
   font-size: 4rem;
   font-weight: 900;
   line-height: 4.4rem;
-  letter-spacing: 4px;
   color: #28283d;
   margin-bottom: 3.2rem;
   text-align: center;
+  padding: 0 6rem;
 }
 
 .about-us-text {
